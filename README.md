@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
 <h3 align="center">A passionate web developer from Austria</h3>
 
-- 🔭 I’m currently working on [my portfolio](https://github.com/Schubi222/Porfolio)
+<p align="center">- 🔭 I’m currently working on [my portfolio](https://github.com/Schubi222/Porfolio)</p>
 
 - 🌱 I’m currently learning **Vue**
 
