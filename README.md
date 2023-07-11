@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fabian</h1>
-<h3 align="center">A passionate web developer from Graz, Austria</h3>
+<h3 align="center">A curious web developer from Graz, Austria</h3>
 
 <p align="center">- 🔭 I’m currently working on [my portfolio](https://github.com/Schubi222/Porfolio)</p>
 
