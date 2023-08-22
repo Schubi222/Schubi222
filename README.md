@@ -2,9 +2,9 @@
 <h3 align="center">A curious web developer from Graz, Austria</h3>
 
 <p align="center"> The biggest projects I have completed are my portfolio(https://github.com/Schubi222/Porfolio) and CS50Web - Ticket system (https://github.com/Schubi222/cs50Web) </p>
-<p align="center">- 🔭 I’m currently working on [TicTacToe](https://github.com/Schubi222/TicTacToe)</p>
+<p align="center">- 🔭 I’m currently working on learning React</p>
 
-<p align="center">- 🌱 I’m currently learning **Vue**, **TypeScript** and **SASS**</p>
+<p align="center">- 🌱 I’m currently learning **React**</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
