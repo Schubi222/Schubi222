@@ -2,7 +2,7 @@
 <h3 align="center">A curious web developer from Graz, Austria</h3>
 
 <p align="center"> The biggest projects I have completed are my portfolio(https://github.com/Schubi222/Porfolio) and CS50Web - Ticket system (https://github.com/Schubi222/cs50Web) </p>
-<p align="center">- 🔭 I’m currently working on WeatherApp https://github.com/Schubi222/WeatherAPP as part of a bigger project which will highlight my work with different APIs and serves as training for interacting with all kinds of APIs</p>
+<p align="center">- 🔭 I’m currently working on DividendGrowthCalculator https://github.com/Schubi222/DividendGrowthCalculator. It will be built using Svelte and will use the https://www.alphavantage.co/ API for stock market data.</p>
 
 
 <h3 align="center">Connect with me:</h3>
