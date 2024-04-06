@@ -2,7 +2,7 @@
 <h3 align="center">A curious web developer from Graz, Austria</h3>
 
 <p align="center"> The biggest projects I have completed are my portfolio(https://github.com/Schubi222/Porfolio) and CS50Web - Ticket system (https://github.com/Schubi222/cs50Web) </p>
-<p align="center">- 🔭 I’m currently working on DividendGrowthCalculator https://github.com/Schubi222/DividendGrowthCalculator. It will be built using Svelte and will use the https://www.alphavantage.co/ API for stock market data.</p>
+<p align="center">- 🔭 I’m currently working on SpaceDashboard https://github.com/Schubi222/SpaceDashboard It will be built using Svelte and TS and will use the Open Source REST API for data on SpaceX launches (which is sadly outdated).</p>
 
 
 <h3 align="center">Connect with me:</h3>
